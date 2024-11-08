@@ -6,6 +6,8 @@
 .env
 /backend/.env
 /frontend/.env
+backend/
+
 
 # Ignore build and log files
 /dist
